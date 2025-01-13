@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /cart.html
+Disallow: /orderPlaced.html
+
+Sitemap: https://your-domain.vercel.app/sitemap.xml 
